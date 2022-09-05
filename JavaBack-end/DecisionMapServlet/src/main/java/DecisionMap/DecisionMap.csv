@@ -1,0 +1,50 @@
+1,2,2,DISCLAIMER: This is not an official diagnosis and if you are concerned about your symptoms | please check with your doctor!,-
+2,5,3,-,Are you over 7 years old?
+3,4,4,Please check with your doctor as children can suffer from different headache symptoms.,-
+4,0,0,Thank you for completing this headache checker.,-
+5,6,18,-,Does your headache start after any event (e.g.- exercise or cough)?
+6,7,13,-,Does your headache start after you cough?
+7,8,12,-,Is the pain sharp and stabbing like?
+8,9,12,-,Is the pain in the front of your head?
+9,10,11,You might have a COUGH HEADACHE. <br/>This headache is triggered by coughing and other types of straining. This straining could include sneezing | blowing your nose | laughing | crying | singing | bending over or having a bowel movement). <br/>If these headaches last more than 2 hours you should see a doctor. <br/>More information here - https://www.mayoclinic.org/diseases-conditions/primary-cough-headaches/symptoms-causes/syc-20371200,Does this description describe your headaches?
+10,4,4,DISLCLAIMER: This is not an official diagnosis. If you have any concerns about your headaches | please check with your doctor!,-
+11,4,4,Please check with doctor if you are concerned out the symptoms!,-
+12,11,11,These symptoms do not typically align with primary headaches specified in this test.,-
+13,14,15,-,Does your headache start after or during intense exercise?
+14,10,11,You might have a HEADACHE FROM EXERTION. <br/>These headaches are started during or after intense exercise and the pain can be throbbing like and can affect both sides of the head. <br/>If you have added symptoms (such as double vision or vomiting) please see a doctor (all symptoms are in the link) <br/>More information here - https://www.mayoclinic.org/diseases-conditions/exercise-headaches/symptoms-causes/syc-20372276,Does this description describe your headaches?
+15,16,12,-,Does your headache start during or after sex?
+16,17,12,-,Is the pain a severe dull or throbbing pain?
+17,10,11,You might have a SEXUAL HEADACHE. <br/>These headaches appear after any type of sexual encounter and happen on both sides and towards the back of the head. Any severe pain should only last 24 hours and mild pain can be felt for up to 72 hours after the start of the headache. <br/>More information here - https://americanmigrainefoundation.org/resource-library/orgasmic-pre-orgasmic-headache/,Does this description describe your headaches?
+18,41,19,-,Does a singular headache last between 30 minutes and 12 hours?
+19,34,20,-,Does a singular headache last between 12 hours and 6 days?
+20,24,21,-,Does a singular headache last under 30 minutes?
+21,22,23,-,Can you clearly remember a sudden offset of the headache?
+22,10,11,You might have a NEW DAILY PERSISTENT HEADACHE. <br/>This headache becomes persistent | occurring every day | within 24 hours of onset as well as onset is clearly remembered. The headache is continuous for three months or more. <br/>More information here - https://www.healthline.com/health/headache/new-daily-persistent-headache,Does this description describe your headaches?
+23,10,11,You might have HEMICRANIA CONTINUA. <br/>This is a continuous | fluctuating type of headache and will only ever affect one side of the head. The constant pain is mild to moderate with severe episodes of pain. <br/>More information here - https://www.migrainetrust.org/about-migraine/types-of-migraine/other-headache-disorders/hemicrania-continua/,Does this description describe your headaches?
+24,25,27,-,Does a singular headache last over 2 minutes?
+25,26,12,-,Is the headache only on one side of the head?
+26,10,11,You might have PAROXYSMAL HEMICRANIA. <br/>Paroxysmal Hemicrania is a recurrent one-sided headache usually located around or behind the eye. <br/>Episodes of paroxysmal hemicrania typically occur from 5 to 40 times per day and last 2 to 30 minutes. <br/>You can also see symptoms around the eye (check the link for more information). <br/>More information here - https://americanmigrainefoundation.org/resource-library/parosyxmal-hemicrania/,Does this description describe your headaches?
+27,28,29,-,Do you have facial pains?
+28,10,11,You might have TRIGEMINAL NEURALGIA. <br/>These headaches can normally be felt behind the middle of the face and is a sharp or shooting pain that can affect all face muscles (maybe making them droop). You may have regular episodes for days or weeks or even months at a time. <br/>More information here - https://www.nhs.uk/conditions/trigeminal-neuralgia/symptoms/,Does this description describe your headaches?
+29,30,32,-,Does the pain feel like a single stab or a series of stabs?
+30,12,31,-,Do the stabs last longer than 16 seconds?
+31,10,11,You might have STABBING HEADACHES. <br/>These headaches are short and stabbing like headaches that are extremely intense and only last a few seconds. It may feel like a single or multiple stabs that occur unexpectedly. <br/>You can also see symptoms around the eye (check the link for more information). <br/>More information here - https://americanmigrainefoundation.org/resource-library/ice-pick-headaches/,Does this description describe your headaches?
+32,33,12,-,Does it reach maximum intensity within 1 minute?
+33,10,11,You might have THUNDERCLAP HEADACHES. <br/>These headaches strike suddenly and severely and peaks within 60 seconds. This can be accompanied by nausea and vomiting. <br/>More information here - https://www.mayoclinic.org/diseases-conditions/thunderclap-headaches/symptoms-causes/syc-20378361,Does this description describe your headaches?
+34,37,35,-,Do you feel sick | sensitive to light or have a sore/throbbing neck?
+35,36,12,-,Does the pain feel like a constant ache?
+36,10,11,You might have MUSCLE CONTRACTION HEADACHES. <br/>Muscle contraction headache is associated with bilateral mild to moderate aching pain in the head and is linked to tightening of the neck muscles and increased pressure behind the eyes. <br/>These symptoms usually resolve within a few hours but can sometimes last for a few days. The pain is uncomfortable but affected individuals are able to carry out daily activities as normal. <br/>More information here - https://www.news-medical.net/health/What-is-Muscle-Contraction-Headache.aspx,Does this description describe your headaches?
+37,38,12,-,Is the pain a severe throbbing?
+38,39,40,-,Do you have visual problems | numbness | feel dizzy | have speech problems or faint before or during these headaches?
+39,10,11,You might have MIGRAINES (WITH AURA). <br/>The main symptom of a migraine is usually an intense headache on 1 side of the head. <br/>The pain is usually a moderate or severe throbbing sensation that gets worse when you move and prevents you from carrying out normal activities. <br/>In some cases | the pain can occur on both sides of your head and may affect your face or neck. <br/>The aura starts before the headache and is a kind of warning. These symptoms are visual problems | numbness | feel dizzy | have speech problems or faint. <br/>More information here - https://www.nhs.uk/conditions/migraine/symptoms/,Does this description describe your headaches?
+40,10,11,You might have MIGRAINES. <br/>The main symptom of a migraine is usually an intense headache on 1 side of the head. <br/>The pain is usually a moderate or severe throbbing sensation that gets worse when you move and prevents you from carrying out normal activities. <br/>In some cases | the pain can occur on both sides of your head and may affect your face or neck. <br/>More information here - https://www.nhs.uk/conditions/migraine/symptoms/,Does this description describe your headaches?
+41,37,42,-,Do you feel sick | sensitive to light or have a sore/throbbing neck?
+42,43,44,-,Does this headache only happen at night (normally between 1 and 3 am)?
+43,10,11,You might have HYNIC HEADACHES. <br/>These headaches will strike when you are asleep and will wake you and then last for up to 6 hours. It will normally strike between 1 and 3 am. <br/>More information here - https://www.migrainetrust.org/about-migraine/types-of-migraine/other-headache-disorders/hypnic-headache/,Does this description describe your headaches?
+44,45,48,-,Does the pain feel like a constant ache?
+45,46,47,-,Do you get these headaches more than 15 days in a month for the last 3 months?
+46,10,11,You might have CHRONIC TENSION HEADACHES. <br/>It may feel like a constant ache that affects both sides of the head. You may also feel the neck muscles tighten and a feeling of pressure behind the eyes. <br/>A tension headache normally is not severe enough to prevent you from doing everyday activities. <br/>It usually lasts for 30 minutes to several hours | but can last for several days. <br/>You will get these headaches more than 15 days within a month for the tension headache to be chronic. <br/>More information here - https://www.nhs.uk/conditions/tension-headaches/,Does this description describe your headaches?
+47,10,11,You might have EPISODIC TENSION HEADACHES. <br/>It may feel like a constant ache that affects both sides of the head. You may also feel the neck muscles tighten and a feeling of pressure behind the eyes. <br/>A tension headache normally is not severe enough to prevent you from doing everyday activities. <br/>It usually lasts for 30 minutes to several hours | but can last for several days. <br/>More information here - https://www.nhs.uk/conditions/tension-headaches/,Does this description describe your headaches?
+48,49,12,-,Is the pain a severe sharp or burning?
+49,50,12,-,Is the pain only on one side of the head?
+50,10,11,You might have CLUSTER HEADACHES. <br/>Cluster headaches begin quickly and without warning. The pain is very severe and is often described as a sharp | burning or piercing sensation on one side of the head. <br/>It's often felt around the eye | temple and sometimes face. It tends to affect the same side for each attack. <br/>You can also see symptoms around the eye (check the link for more information). <br/>More information here - https://www.nhs.uk/conditions/cluster-headaches/,Does this description describe your headaches?
